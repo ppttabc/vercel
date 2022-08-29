@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+  	{"src": "/(.*)","dest": "https://om12.omo.workers.dev/$1"}
+  ]
+}
